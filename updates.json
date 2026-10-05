@@ -1,10 +1,12 @@
 {
  "releases": [
   {
-   "id": "2026-10-05e",
+   "id": "2026-10-05f",
    "date": "Mon Oct 5, 2026 — afternoon",
    "title": "Call-back reminders, LO ownership, and Elementix intel",
    "items": [
+    "NEW: RED FLAGS. 99 borrowers on our priority lists have pre-foreclosure filings in Elementix (checked 10/5). Each was verified as the same person by name, state and lender history. They're tagged ⚠ RED FLAG — CHECK FIRST, with the details in the talk track. Use the Tier filter to see them. More are being checked.",
+    "FIXED: The DASHBOARD no longer shows spreadsheet formulas. It opens with your live progress.",
     "NEW: Call-back reminders, like HubSpot tasks. Open a borrower, pick a date and time, add a note, and hit Set reminder. When it's due, a pop-up appears on screen (and a desktop alert if you allow it). Buttons: Done, +1 hour, Cancel.",
     "NEW: Send any reminder to Google Calendar or to your phone/Outlook (.ics file with a 10-minute alarm), so it reaches you even when this page is closed.",
     "NEW: Owner dropdown on every borrower. Assign Anthony, Gabe or Ty, or mark \"Another CF1 LO\" so nobody double-calls someone a teammate already has. Those rows show a purple \"Other LO has it\" tag and drop out of MY DAY.",
