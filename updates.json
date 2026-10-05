@@ -1,6 +1,15 @@
 {
  "releases": [
   {
+   "id": "2026-10-05h",
+   "date": "Mon Oct 5, 2026 — evening",
+   "title": "Ty's full name",
+   "items": [
+    "Ty now shows as Ty Thompson in the Owner dropdown, MY DAY, TEAM FOLLOW-UPS and the call log. Anything already assigned to \"Ty\" moves over automatically.",
+    "Your password, notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-05g",
    "date": "Mon Oct 5, 2026 — evening",
    "title": "Red flags: full sweep done",
