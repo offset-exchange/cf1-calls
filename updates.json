@@ -1,17 +1,49 @@
-{"releases":[
- {"id":"2026-10-05","date":"Mon Oct 5, 2026","title":"Competitor refresh + smarter call notes",
-  "items":[
-   "All 30 competitor rate sheets re-verified from the lenders' own sites (as of Oct 5). Six material changes — see the COMPETITOR TERMS tab, 'What changed' column.",
-   "RCN Capital now publishes its full rate sheet: rental from 6.00%, construction from 9.84%; DSCR leverage tiers by FICO (80% at 700+, 75% at 680–699, 65% at 660–679). Positioning updated.",
-   "Kiavi now lists 44 states + DC — all eight of ours included. Rates unchanged since the Figure acquisition closed Sept 1.",
-   "Genesis Capital now says 'exclusively experienced investors' — a clean handoff line for newer borrowers who get turned away.",
-   "Merchants Mortgage now claims nationwide fix-and-flip lending (was Colorado-centric). Verify license before quoting them as absent in a state.",
-   "Constructive Capital is now a captive originator of Adamas Trust (formerly NYMT) — $422M Q1 originations; treat them as well-funded, not a small shop.",
-   "Maturity countdowns ('Days') re-based to today, so the DUE <90 DAYS tier reflects this week.",
-   "Call notes upgraded: Reached? and Outcome are dropdowns, Called and Follow-Up are date pickers, and the Called date + Claimed By fill in automatically the first time you mark a lead reached or done.",
-   "This 'What's new' panel. It shows once per update; reopen it any time from the button in the top bar.",
-   "Your password and your saved progress carry over — nothing to redo."
-  ]},
- {"id":"2026-10-02","date":"Fri Oct 2, 2026","title":"Launch",
-  "items":["First release: 43,264 borrowers across CO, AZ, TX, GA, NC, SC, TN, FL; scored and tiered; talk track on every row; 12 competitor tabs; win-backs; current CF1 clients.","Setup codes per person, your own password after that.","Progress saves in your browser — use 'Export my progress' on Fridays."]}
-]}
+{
+ "releases": [
+  {
+   "id": "2026-10-05b",
+   "date": "Mon Oct 5, 2026 — afternoon",
+   "title": "Elementix intel: who's in play, who left us, who owns each state",
+   "items": [
+    "NEW: Status on every borrower. Each row shows New, Viewed, 2× tried, Follow-up due, Reached or Closed, plus when it was last touched and by whom. You can always see who has been worked and who hasn't.",
+    "NEW: Log a call in one click. Open a row and hit No answer, Voicemail, Reached, Texted, Emailed or Wrong number. It stamps the time and your name, fills Called and Claimed By, and sets a follow-up 2 days out for no-answers (7 days after the 3rd try).",
+    "NEW: MY DAY tab. Your follow-ups due today and everyone you've tried but not reached yet, pulled from every tab into one list.",
+    "NEW: Status filter on every tab. Show only borrowers you've never touched, ones you tried but haven't reached, follow-ups due, reached, or closed out.",
+    "NEW: WIN-BACK 2.0. Capital Fund I borrowers who went quiet or left us in the last 6 months, with who they left for and the line to use against that lender. Data is from Elementix Client Flow.",
+    "NEW: IN PLAY. Borrowers who went dormant or switched away from shrinking lenders (Loan Ranger is down 221 loans in TX, Anchor down 157 in NC). More lenders are being added.",
+    "NEW: CF1 LOOKUP (NOVA). 1,454 former CF1 borrowers who went quiet or left but aren't on the phone list. Their contact info is in NOVA. Look them up there and work them from this tab.",
+    "NEW: Top lenders at the top of every state tab: who funds the most flips there, who's growing, who's shrinking, and where CF1 ranks. All 8 states are on the MARKET SHARE tab.",
+    "Rehab Wallet now shows by name (it records loans as PIC Fund I). It's #1 in SC with 12.5% share, down 4 points.",
+    "RED FLAG: Luis Mata (top of CALL QUEUE) has a Notice of Foreclosure dated 9/24/2026. His row says to check with CF1 servicing before pitching.",
+    "Your password, notes and check-offs all carry over."
+   ]
+  },
+  {
+   "id": "2026-10-05",
+   "date": "Mon Oct 5, 2026",
+   "title": "Competitor refresh + smarter call notes",
+   "items": [
+    "All 30 competitor rate sheets re-verified from the lenders' own sites (as of Oct 5). Six material changes — see the COMPETITOR TERMS tab, 'What changed' column.",
+    "RCN Capital now publishes its full rate sheet: rental from 6.00%, construction from 9.84%; DSCR leverage tiers by FICO (80% at 700+, 75% at 680–699, 65% at 660–679). Positioning updated.",
+    "Kiavi now lists 44 states + DC — all eight of ours included. Rates unchanged since the Figure acquisition closed Sept 1.",
+    "Genesis Capital now says 'exclusively experienced investors' — a clean handoff line for newer borrowers who get turned away.",
+    "Merchants Mortgage now claims nationwide fix-and-flip lending (was Colorado-centric). Verify license before quoting them as absent in a state.",
+    "Constructive Capital is now a captive originator of Adamas Trust (formerly NYMT) — $422M Q1 originations; treat them as well-funded, not a small shop.",
+    "Maturity countdowns ('Days') re-based to today, so the DUE <90 DAYS tier reflects this week.",
+    "Call notes upgraded: Reached? and Outcome are dropdowns, Called and Follow-Up are date pickers, and the Called date + Claimed By fill in automatically the first time you mark a lead reached or done.",
+    "This 'What's new' panel. It shows once per update; reopen it any time from the button in the top bar.",
+    "Your password and your saved progress carry over — nothing to redo."
+   ]
+  },
+  {
+   "id": "2026-10-02",
+   "date": "Fri Oct 2, 2026",
+   "title": "Launch",
+   "items": [
+    "First release: 43,264 borrowers across CO, AZ, TX, GA, NC, SC, TN, FL; scored and tiered; talk track on every row; 12 competitor tabs; win-backs; current CF1 clients.",
+    "Setup codes per person, your own password after that.",
+    "Progress saves in your browser — use 'Export my progress' on Fridays."
+   ]
+  }
+ ]
+}
