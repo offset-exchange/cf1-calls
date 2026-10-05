@@ -1,10 +1,14 @@
 {
  "releases": [
   {
-   "id": "2026-10-05b",
+   "id": "2026-10-05c",
    "date": "Mon Oct 5, 2026 — afternoon",
-   "title": "Elementix intel: who's in play, who left us, who owns each state",
+   "title": "Call-back reminders, LO ownership, and Elementix intel",
    "items": [
+    "NEW: Call-back reminders, like HubSpot tasks. Open a borrower, pick a date and time, add a note, and hit Set reminder. When it's due, a pop-up appears on screen (and a desktop alert if you allow it). Buttons: Done, +1 hour, Cancel.",
+    "NEW: Send any reminder to Google Calendar or to your phone/Outlook (.ics file with a 10-minute alarm), so it reaches you even when this page is closed.",
+    "NEW: Owner dropdown on every borrower. Assign Anthony, Gabe or Ty, or mark \"Another CF1 LO\" so nobody double-calls someone a teammate already has. Those rows show a purple \"Other LO has it\" tag and drop out of MY DAY.",
+    "NEW: Filters for Scheduled call-backs, Owned by me, and Belongs to another LO.",
     "NEW: Status on every borrower. Each row shows New, Viewed, 2× tried, Follow-up due, Reached or Closed, plus when it was last touched and by whom. You can always see who has been worked and who hasn't.",
     "NEW: Log a call in one click. Open a row and hit No answer, Voicemail, Reached, Texted, Emailed or Wrong number. It stamps the time and your name, fills Called and Claimed By, and sets a follow-up 2 days out for no-answers (7 days after the 3rd try).",
     "NEW: MY DAY tab. Your follow-ups due today and everyone you've tried but not reached yet, pulled from every tab into one list.",
