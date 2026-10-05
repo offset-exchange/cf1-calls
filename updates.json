@@ -1,7 +1,7 @@
 {
  "releases": [
   {
-   "id": "2026-10-05d",
+   "id": "2026-10-05e",
    "date": "Mon Oct 5, 2026 — afternoon",
    "title": "Call-back reminders, LO ownership, and Elementix intel",
    "items": [
@@ -15,7 +15,7 @@
     "NEW: MY DAY tab. Your follow-ups due today and everyone you've tried but not reached yet, pulled from every tab into one list.",
     "NEW: Status filter on every tab. Show only borrowers you've never touched, ones you tried but haven't reached, follow-ups due, reached, or closed out.",
     "NEW: WIN-BACK 2.0. Capital Fund I borrowers who went quiet or left us in the last 6 months, with who they left for and the line to use against that lender. Data is from Elementix Client Flow.",
-    "NEW: IN PLAY. Borrowers who went dormant or switched away from shrinking lenders (Loan Ranger is down 221 loans in TX, Anchor down 157 in NC). More lenders are being added.",
+    "NEW: IN PLAY is now 671 borrowers. Each one went dormant or switched away from Roc360, CV3, Lima One, Dominion, Rain City, Park Place, Anchor, Loan Ranger, Rehab Wallet, Windstone, Bell Rock or Pantheon in the last 6 months, and each has a verified phone. Every row says where they went and gives the line to use.",
     "NEW: CF1 LOOKUP (NOVA). 1,454 former CF1 borrowers who went quiet or left but aren't on the phone list. Their contact info is in NOVA. Look them up there and work them from this tab.",
     "NEW: Top lenders at the top of every state tab: who funds the most flips there, who's growing, who's shrinking, and where CF1 ranks. All 8 states are on the MARKET SHARE tab.",
     "Rehab Wallet now shows by name (it records loans as PIC Fund I). It's #1 in SC with 12.5% share, down 4 points.",
