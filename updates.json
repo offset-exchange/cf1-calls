@@ -1,6 +1,18 @@
 {
  "releases": [
   {
+   "id": "2026-10-05i",
+   "date": "Mon Oct 5, 2026 — evening",
+   "title": "Deal history + real call scripts",
+   "items": [
+    "NEW: DEAL HISTORY on every borrower. Open a row to see their total loans and when they started, how many properties they've sold in the last 3 years, how many they own right now, new loans in the last 12 months and 90 days, short-term %, average loan, the city they buy in, and their last deal (address, date, amount, lender).",
+    "NEW: They're tagged Flipper, Holder, Flips and holds, Builder or Newer, plus whether they're active right now or have gone quiet.",
+    "NEW: FULL CALL SCRIPT replaces the one-line talk track: OPEN (mentions their last deal), WHY I'M CALLING (based on their situation), 3 questions to ASK, the CLOSE (get the next deal and an email for the term sheet), and what to say if they already have a lender.",
+    "Elementix numbers show only when we verified it's the same person (same name and state, plus the same company, city or lender). About 3 in 4 people on the CALL QUEUE are verified. The rest show Radar data and are labeled that way.",
+    "Your password, notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-05h",
    "date": "Mon Oct 5, 2026 — evening",
    "title": "Ty's full name",
