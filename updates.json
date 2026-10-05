@@ -1,0 +1,17 @@
+{"releases":[
+ {"id":"2026-10-05","date":"Mon Oct 5, 2026","title":"Competitor refresh + smarter call notes",
+  "items":[
+   "All 30 competitor rate sheets re-verified from the lenders' own sites (as of Oct 5). Six material changes — see the COMPETITOR TERMS tab, 'What changed' column.",
+   "RCN Capital now publishes its full rate sheet: rental from 6.00%, construction from 9.84%; DSCR leverage tiers by FICO (80% at 700+, 75% at 680–699, 65% at 660–679). Positioning updated.",
+   "Kiavi now lists 44 states + DC — all eight of ours included. Rates unchanged since the Figure acquisition closed Sept 1.",
+   "Genesis Capital now says 'exclusively experienced investors' — a clean handoff line for newer borrowers who get turned away.",
+   "Merchants Mortgage now claims nationwide fix-and-flip lending (was Colorado-centric). Verify license before quoting them as absent in a state.",
+   "Constructive Capital is now a captive originator of Adamas Trust (formerly NYMT) — $422M Q1 originations; treat them as well-funded, not a small shop.",
+   "Maturity countdowns ('Days') re-based to today, so the DUE <90 DAYS tier reflects this week.",
+   "Call notes upgraded: Reached? and Outcome are dropdowns, Called and Follow-Up are date pickers, and the Called date + Claimed By fill in automatically the first time you mark a lead reached or done.",
+   "This 'What's new' panel. It shows once per update; reopen it any time from the button in the top bar.",
+   "Your password and your saved progress carry over — nothing to redo."
+  ]},
+ {"id":"2026-10-02","date":"Fri Oct 2, 2026","title":"Launch",
+  "items":["First release: 43,264 borrowers across CO, AZ, TX, GA, NC, SC, TN, FL; scored and tiered; talk track on every row; 12 competitor tabs; win-backs; current CF1 clients.","Setup codes per person, your own password after that.","Progress saves in your browser — use 'Export my progress' on Fridays."]}
+]}
