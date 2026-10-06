@@ -8,7 +8,7 @@
     "NEW: DEAL HISTORY on every borrower. Open a row to see their total loans and when they started, how many properties they've sold in the last 3 years, how many they own right now, new loans in the last 12 months and 90 days, short-term %, average loan, the city they buy in, and their last deal (address, date, amount, lender).",
     "NEW: They're tagged Flipper, Holder, Flips and holds, Builder or Newer, plus whether they're active right now or have gone quiet.",
     "NEW: FULL CALL SCRIPT replaces the one-line talk track: OPEN (mentions their last deal), WHY I'M CALLING (based on their situation), 3 questions to ASK, the CLOSE (get the next deal and an email for the term sheet), and what to say if they already have a lender.",
-    "Elementix numbers show only when we verified it's the same person (same name and state, plus the same company, city or lender). About 3 in 4 people on the CALL QUEUE are verified. The rest show Radar data and are labeled that way.",
+    "Detailed numbers show only when we verified it's the same person (same name and state, plus the same company, city or lender). About 3 in 4 people on the CALL QUEUE are verified. The rest show basic data only.",
     "Your password, notes, owners and reminders all carry over."
    ]
   },
@@ -26,8 +26,8 @@
    "date": "Mon Oct 5, 2026 — evening",
    "title": "Red flags: full sweep done",
    "items": [
-    "RED FLAGS: full sweep done. 345 borrowers on our lists now carry ⚠ RED FLAG — CHECK FIRST, up from 99. Elementix shows foreclosure-related negative remarks for each one. Every flag is verified as the same person by name and state, plus the same city or a shared lender. Name-only matches (44) were left unflagged.",
-    "Where they are: CALL QUEUE 211, IN PLAY 90, WIN-BACKS 73, WIN-BACK 2.0 19, and they show on each state tab too. Pull up the Elementix profile before you offer new money.",
+    "RED FLAGS: full sweep done. 345 borrowers on our lists now carry ⚠ RED FLAG — CHECK FIRST, up from 99. records show foreclosure-related negative remarks for each one. Every flag is verified as the same person by name and state, plus the same city or a shared lender. Name-only matches (44) were left unflagged.",
+    "Where they are: CALL QUEUE 211, IN PLAY 90, WIN-BACKS 73, WIN-BACK 2.0 19, and they show on each state tab too. Check the full record before you offer new money.",
     "RENAMED: CF1 LOOKUP (NOVA) is now CF1 LOOKUP (HubSpot). Past borrowers' contact info lives in HubSpot, so look them up there.",
     "Your password, notes, owners and reminders all carry over."
    ]
@@ -35,9 +35,9 @@
   {
    "id": "2026-10-05f",
    "date": "Mon Oct 5, 2026 — afternoon",
-   "title": "Call-back reminders, LO ownership, and Elementix intel",
+   "title": "Call-back reminders, LO ownership, and lender intel",
    "items": [
-    "NEW: RED FLAGS. 99 borrowers on our priority lists have pre-foreclosure filings in Elementix (checked 10/5). Each was verified as the same person by name, state and lender history. They're tagged ⚠ RED FLAG — CHECK FIRST, with the details in the talk track. Use the Tier filter to see them. More are being checked.",
+    "NEW: RED FLAGS. 99 borrowers on our priority lists have pre-foreclosure filings on record (checked 10/5). Each was verified as the same person by name, state and lender history. They're tagged ⚠ RED FLAG — CHECK FIRST, with the details in the talk track. Use the Tier filter to see them. More are being checked.",
     "FIXED: The DASHBOARD no longer shows spreadsheet formulas. It opens with your live progress.",
     "NEW: Call-back reminders, like HubSpot tasks. Open a borrower, pick a date and time, add a note, and hit Set reminder. When it's due, a pop-up appears on screen (and a desktop alert if you allow it). Buttons: Done, +1 hour, Cancel.",
     "NEW: Send any reminder to Google Calendar or to your phone/Outlook (.ics file with a 10-minute alarm), so it reaches you even when this page is closed.",
@@ -48,7 +48,7 @@
     "NEW: Log a call in one click. Open a row and hit No answer, Voicemail, Reached, Texted, Emailed or Wrong number. It stamps the time and your name, fills Called and Claimed By, and sets a follow-up 2 days out for no-answers (7 days after the 3rd try).",
     "NEW: MY DAY tab. Your follow-ups due today and everyone you've tried but not reached yet, pulled from every tab into one list.",
     "NEW: Status filter on every tab. Show only borrowers you've never touched, ones you tried but haven't reached, follow-ups due, reached, or closed out.",
-    "NEW: WIN-BACK 2.0. Capital Fund I borrowers who went quiet or left us in the last 6 months, with who they left for and the line to use against that lender. Data is from Elementix Client Flow.",
+    "NEW: WIN-BACK 2.0. Capital Fund I borrowers who went quiet or left us in the last 6 months, with who they left for and the line to use against that lender.",
     "NEW: IN PLAY is now 671 borrowers. Each one went dormant or switched away from Roc360, CV3, Lima One, Dominion, Rain City, Park Place, Anchor, Loan Ranger, Rehab Wallet, Windstone, Bell Rock or Pantheon in the last 6 months, and each has a verified phone. Every row says where they went and gives the line to use.",
     "NEW: CF1 LOOKUP (HubSpot). 1,454 former CF1 borrowers who went quiet or left but aren't on the phone list. Their contact info is in HubSpot. Look them up there and work them from this tab.",
     "NEW: Top lenders at the top of every state tab: who funds the most flips there, who's growing, who's shrinking, and where CF1 ranks. All 8 states are on the MARKET SHARE tab.",
