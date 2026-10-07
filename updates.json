@@ -1,6 +1,20 @@
 {
  "releases": [
   {
+   "id": "2026-10-07a",
+   "date": "Wed Oct 7, 2026",
+   "title": "Real rates in every script + HubSpot notes",
+   "items": [
+    "Every call script now has an OFFER line with our current rate for the program that fits that borrower: fix-and-flip 9.99%, ground-up 10.25%, refinance 10.75%, commercial 11.99%. Florida uses Florida pricing (fix-and-flip 10.25%, refinance and ground-up 10.75%).",
+    "The script picks the program for you: flippers get fix-and-flip, builders get ground-up, holders and anyone with a loan coming due get refinance.",
+    "Each script ends with an internal PRICING line (points and doc fee for Florida) for you, not to read out loud. All subject to underwriting.",
+    "Sharper closes: a takeout ask for loans coming due, a build-budget ask for builders, a payoff ask for holders.",
+    "NEW button: App started. Hit it when a borrower sends a deal or application.",
+    "NEW button: Copy for HubSpot. Copies a ready-made call note (who, when, result, call-back) to paste into the contact in HubSpot, so the whole team can see who called whom.",
+    "Your password, notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-05i",
    "date": "Mon Oct 5, 2026 — evening",
    "title": "Deal history + real call scripts",
