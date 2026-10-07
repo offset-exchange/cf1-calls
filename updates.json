@@ -1,6 +1,18 @@
 {
  "releases": [
   {
+   "id": "2026-10-07b",
+   "date": "Wed Oct 7, 2026 — afternoon",
+   "title": "Leverage in every script",
+   "items": [
+    "The OFFER line now includes how much we can lend, from the loan menu: for example, fix-and-flip up to 90% of purchase, 92.5% of total cost and 75% of ARV for an experienced borrower with 700-plus credit.",
+    "The leverage is matched to each borrower's track record (projects finished in the last 3 years) and the program: light rehab, ground-up, rate-and-term or cash-out refinance.",
+    "A new question in every script asks for projects completed and a credit range, so you can confirm the tier on the call.",
+    "The internal PRICING line shows the exact matrix tier and the rules to check: holdbacks, MSA population minimums, and negative-history declines. Always pull credit to confirm.",
+    "If we don't know a borrower's track record, the script quotes the rate only and tells you what to ask."
+   ]
+  },
+  {
    "id": "2026-10-07a",
    "date": "Wed Oct 7, 2026",
    "title": "Real rates in every script + HubSpot notes",
