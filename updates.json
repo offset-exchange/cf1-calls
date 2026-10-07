@@ -1,6 +1,18 @@
 {
  "releases": [
   {
+   "id": "2026-10-07c",
+   "date": "Wed Oct 7, 2026 — late afternoon",
+   "title": "Objection answers + loan amount on apps",
+   "items": [
+    "Every call script now has ready answers for the pushback you hear most: \"your rate is too high\" (compare total cash in, using that borrower's leverage), \"not buying right now\" (refinance or cash-out angle for holders, a 30-day call-back for flippers) and \"just send me an email\" (get the email and the next deal in the same breath).",
+    "\"I already have a lender\" is still there, naming their actual lender.",
+    "App started now asks for the loan amount (optional; you can type 350000 or 350k). Hit Cancel if you clicked it by mistake and nothing gets logged.",
+    "Copy for HubSpot includes the loan amount when there is one.",
+    "Your password, notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-07b",
    "date": "Wed Oct 7, 2026 — afternoon",
    "title": "Leverage in every script",
