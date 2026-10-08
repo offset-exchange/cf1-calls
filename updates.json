@@ -1,6 +1,16 @@
 {
  "releases": [
   {
+   "id": "2026-10-08b",
+   "date": "Thu Oct 8, 2026 — morning",
+   "title": "Login fix + Rehab Wallet tab",
+   "items": [
+    "Fixed: yesterday's update made some of you log in again. Your old password and any new one you set since both work now. Sorry about that.",
+    "NEW TAB: ▸ Rehab Wallet. Everyone who has borrowed from Rehab Wallet (recorded as PIC Fund I), current or past. Mostly South Carolina, plus NC, GA, TX, FL and CO.",
+    "Your notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-08a",
    "date": "Thu Oct 8, 2026",
    "title": "48-hour funding in every script",
