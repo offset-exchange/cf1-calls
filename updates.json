@@ -1,6 +1,16 @@
 {
  "releases": [
   {
+   "id": "2026-10-08a",
+   "date": "Thu Oct 8, 2026",
+   "title": "48-hour funding in every script",
+   "items": [
+    "\"I already have a lender\" and \"your rate is too high\" now include: we can fund in 48 hours.",
+    "The internal PRICING line reminds you to quote 48 hours. Don't promise 24 unless the file is clean and ops has confirmed it.",
+    "Your password, notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-07c",
    "date": "Wed Oct 7, 2026 — late afternoon",
    "title": "Objection answers + loan amount on apps",
