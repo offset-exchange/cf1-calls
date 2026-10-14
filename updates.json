@@ -1,6 +1,19 @@
 {
  "releases": [
   {
+   "id": "2026-10-14b",
+   "date": "Wed Oct 14, 2026 — afternoon",
+   "title": "Live shared call log: no more double dials",
+   "items": [
+    "Every call anyone logs now shows up for the whole team within seconds. The top bar says \"● live · shared with team\" when it's connected.",
+    "Open a borrower someone else called in the last 3 days and you'll see a red warning: who called, when and what happened. Check with them before dialing.",
+    "Borrowers owned by someone else say so at the top. Don't call them without checking.",
+    "The first time you sign in after this update, everything you've logged so far uploads to the shared log automatically. Sign in once on every computer you've used the tool on.",
+    "Everything is encrypted before it leaves your computer. Same password, nothing to set up.",
+    "Your notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-14a",
    "date": "Wed Oct 14, 2026",
    "title": "Rehab Wallet: every borrower, not just some",
