@@ -1,6 +1,18 @@
 {
  "releases": [
   {
+   "id": "2026-10-14a",
+   "date": "Wed Oct 14, 2026",
+   "title": "Rehab Wallet: every borrower, not just some",
+   "items": [
+    "▸ Rehab Wallet now has 317 borrowers with verified phones (up from 205). Each one shows how many loans they've done with Rehab Wallet, their total loans and who else they use, at the top of the script.",
+    "NEW TAB: ▸ Rehab Wallet - no phone. 897 more Rehab Wallet borrowers in our states that we don't have a number for yet, most recent first. Find the number in HubSpot or a skip trace, then log calls like any other lead.",
+    "Rehab Wallet is the #1 private lender in South Carolina but is losing market share this year, so its borrowers are open to a second lender.",
+    "62 of these borrowers have a red flag (foreclosure-related remarks). They're marked at the top. Check before offering money.",
+    "Lists also refreshed to today's date, so a few borrowers moved between tabs. Your notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-08b",
    "date": "Thu Oct 8, 2026 — morning",
    "title": "Login fix + Rehab Wallet tab",
