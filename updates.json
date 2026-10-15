@@ -1,6 +1,19 @@
 {
  "releases": [
   {
+   "id": "2026-10-15b",
+   "date": "Thu Oct 15, 2026 — late morning",
+   "title": "Cold call list: 129,622 more borrowers",
+   "items": [
+    "NEW: two ❄ COLD tabs with 129,622 more borrowers in our 8 states who have a phone on file that isn't verified yet.",
+    "❄ COLD · active 2 yrs: 48,912 borrowers who took a loan in the last 2 years. ❄ COLD · older: 80,710 more.",
+    "Every cold script starts by confirming you have the right person, then gives you the opener, rates, questions and close.",
+    "Hit \"Wrong number\" when it's wrong, so nobody calls it again.",
+    "The cold list loads in the background, so the tool still opens fast. The first time you click a cold tab it may take a few seconds.",
+    "Work the verified tabs first. Cold is for when you've burned through your hot lists."
+   ]
+  },
+  {
    "id": "2026-10-15a",
    "date": "Thu Oct 15, 2026",
    "title": "50,000 verified borrowers, sorted by lead type",
