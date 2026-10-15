@@ -1,6 +1,19 @@
 {
  "releases": [
   {
+   "id": "2026-10-15a",
+   "date": "Thu Oct 15, 2026",
+   "title": "50,000 verified borrowers, sorted by lead type",
+   "items": [
+    "About 6,800 more verified borrowers added: commercial, land and DSCR investors in our 8 states. 50,019 verified total.",
+    "NEW: leads sorted by type. Tabs marked ◆ right after CALL QUEUE: Rehabbing now, Loan due in 90 days, Flippers, Landlords, Builders, Commercial, Newer and occasional, and Dormant 2+ years. Every active borrower sits in exactly one type, so you can split them up with no overlap.",
+    "NEW: ◆ Rehabbing now. Denver investors who bought in the last 18 months and just pulled a renovation permit. The script opens with the address, the permit and what they paid. Call these first.",
+    "NEW: ◆ Dormant 2+ years. 30,000 verified borrowers with no loan in 2+ years were hidden before. Lower hit rate, huge volume.",
+    "Each script uses the offer that fits the type: fix-and-flip for flippers, refinance for landlords, ground-up for builders, commercial for commercial.",
+    "Your calls, notes, owners and reminders all carry over, and the shared call log keeps working."
+   ]
+  },
+  {
    "id": "2026-10-14b",
    "date": "Wed Oct 14, 2026 — afternoon",
    "title": "Live shared call log: no more double dials",
