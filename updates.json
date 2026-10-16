@@ -1,6 +1,17 @@
 {
  "releases": [
   {
+   "id": "2026-10-16a",
+   "date": "Fri Oct 16, 2026",
+   "title": "Find anyone + their lender at a glance",
+   "items": [
+    "NEW: Find anyone. The search box at the top searches all 179,000+ borrowers in every tab, cold included. Type part of a name, a company or a phone number, click a result, and it opens their row.",
+    "Each result shows whether anyone has called them, so you can see before you dial.",
+    "NEW: Their lender card. Open any borrower to see their lender's rank and trend in that state, their advertised rate, points, leverage, close time and draws, side by side with ours (9.99%, up to 90% of purchase, 48-hour funding) and how to win.",
+    "Your calls, notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-15c",
    "date": "Thu Oct 15, 2026 — afternoon",
    "title": "Rehabbing now: live permits from 18 cities",
