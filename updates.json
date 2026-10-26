@@ -1,6 +1,17 @@
 {
  "releases": [
   {
+   "id": "2026-10-26a",
+   "date": "Mon Oct 26, 2026",
+   "title": "Fresh data: 105,000 verified borrowers",
+   "items": [
+    "New Radar pull for TX, FL, AZ and NC: the verified list more than doubled, from 50,019 to 105,399 borrowers.",
+    "Rehabbing now grew to 608 borrowers with a live permit; Loan due in 90 days to 1,537; win-backs to 1,202.",
+    "The cold list was refreshed too (113,992).",
+    "First load is a little slower (about 4 seconds) because there is twice as much data. Your calls, notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-25a",
    "date": "Sun Oct 25, 2026",
    "title": "Competitor intel refreshed: 40 lenders",
