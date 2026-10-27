@@ -1,6 +1,17 @@
 {
  "releases": [
   {
+   "id": "2026-10-27a",
+   "date": "Tue Oct 27, 2026",
+   "title": "Every state refreshed + full state lists",
+   "items": [
+    "New Radar pull covering GA, CO, SC and TN as well: 119,251 verified borrowers (was 105,399).",
+    "State tabs now show EVERY verified borrower in that state, active and dormant, not just the last 24 months. CO went from 938 to 7,000+, TX to 30,000+.",
+    "Rehabbing now: 710 with a live permit. Loan due in 90 days: 1,816. Refi window 91-180 days: 1,719.",
+    "Your calls, notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-26a",
    "date": "Mon Oct 26, 2026",
    "title": "Fresh data: 105,000 verified borrowers",
