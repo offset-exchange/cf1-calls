@@ -8,7 +8,8 @@
     "New Radar pull covering GA, CO, SC and TN as well: 119,251 verified borrowers (was 105,399).",
     "State tabs now show EVERY verified borrower in that state, active and dormant, not just the last 24 months. CO went from 938 to 7,000+, TX to 30,000+.",
     "Rehabbing now: 710 with a live permit. Loan due in 90 days: 1,816. Refi window 91-180 days: 1,719.",
-    "Your calls, notes, owners and reminders all carry over."
+    "Your calls, notes, owners and reminders all carry over.",
+    "The page now loads about twice as fast and uses half the memory: state tabs are rebuilt in your browser instead of being sent twice."
    ]
   },
   {
