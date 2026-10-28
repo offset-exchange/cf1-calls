@@ -3,14 +3,16 @@
   {
    "id": "2026-10-28a",
    "date": "Wed Oct 28, 2026",
-   "title": "Maturity fishing: the cash-out play",
+   "title": "Maturity fishing + DSCR takeout lists",
    "items": [
     "New tab, first in the list: Maturity fishing. Every verified borrower whose loan matures between now and the end of the year — 2,109 of them.",
     "Each one opens with a WHY NOW line: the property, the maturity date, and an equity estimate (county median value against their last loan amount) so you can see whether there is cash to pull out.",
     "1,681 of them already borrow as an LLC or other entity, and the card says so — that is the Florida requirement, already checked for you.",
     "This is a takeout and cash-out refinance call, not a purchase pitch. The script says it, and it tells you to ask what else of theirs is coming due.",
     "By state: FL 821 · TX 550 · GA 211 · CO 133 · NC 133 · AZ 108 · TN 82 · SC 71.",
-    "Your calls, notes, owners and reminders all carry over."
+    "Your calls, notes, owners and reminders all carry over.",
+    "New tab: DSCR takeout candidates — 2,903 rental holders with three or more properties, mostly long-term loans, and a loan maturing inside the next year. These are 30-year rental refinances, not bridge loans.",
+    "Every DSCR script carries the pricing rule: if they want cash out, hold the loan-to-value at 70. Max cash-out is the biggest price hit on DSCR and 70 prices about a quarter point better than 75. Price it in the deal engine before you quote."
    ]
   },
   {
