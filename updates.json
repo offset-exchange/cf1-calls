@@ -1,6 +1,16 @@
 {
  "releases": [
   {
+   "id": "2026-10-29a",
+   "date": "Thu Oct 29, 2026",
+   "title": "Loan-level data refresh",
+   "items": [
+    "Refreshed against a new loan-level pull: 201,277 outstanding loans across all eight states, which is where maturity dates, property status and owner contacts now come from.",
+    "Maturity dates are more complete than before, so the maturing and refi lists are more accurate. Note the source carries a maturity date for about 70% of loans, so these lists are a floor, not the full universe.",
+    "Your calls, notes, owners and reminders all carry over."
+   ]
+  },
+  {
    "id": "2026-10-28a",
    "date": "Wed Oct 28, 2026",
    "title": "Maturity fishing + DSCR takeout lists",
